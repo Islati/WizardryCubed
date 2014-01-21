@@ -1,0 +1,13 @@
+name: WizardryCubed
+main: com.caved_in.wizardrycubed.WizardryCubed
+version: 1.0
+description: Wizardry plugin to add spells to Storms of Renenthrall (Features a plugin system)
+author: Brandon
+depend: [Tunnels-Common]
+commands:
+    spell:
+       description: Used to add premium (Console only)
+       usage: /<command> <PlayerName>
+    spells:
+       description: Used to add premium (Console only)
+       usage: /<command> <PlayerName>

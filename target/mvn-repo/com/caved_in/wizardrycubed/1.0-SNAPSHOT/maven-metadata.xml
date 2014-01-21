@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.caved_in</groupId>
+  <artifactId>wizardrycubed</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140121.002125</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20140121002125</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20140121.002125-4</value>
+        <updated>20140121002125</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
