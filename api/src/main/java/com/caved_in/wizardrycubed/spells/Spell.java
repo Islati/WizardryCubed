@@ -19,7 +19,7 @@ public interface Spell extends Plugin {
 	public String getIdentifier();
 
 	/**
-	 * The spells name; What will be used in public display
+	 * The spells name; What will be used in public display.
 	 *
 	 * @return Example: "Fireball I" or "Ice Storm I"
 	 */
