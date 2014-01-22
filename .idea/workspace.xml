@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0df62ea8-6a0f-4dad-b80a-8ee262837ef6" name="Default" comment="" />
+    <list default="true" id="0df62ea8-6a0f-4dad-b80a-8ee262837ef6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fireball/fireball.iml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/fireball_i/dependency-reduced-pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/pom.xml" afterPath="$PROJECT_DIR$/fireball_i/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java" afterPath="$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/classes/com/caved_in/wizardrycubed/FireballSpell.class" afterPath="$PROJECT_DIR$/fireball_i/target/classes/com/caved_in/wizardrycubed/FireballSpell.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/fireball-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/fireball_i/target/fireball-1.0-SNAPSHOT.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/fireball_i/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/fireball_i/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/fireball_i/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/fireball_i/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.jar.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001405-1.pom.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.jar.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.001913-2.pom.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.jar.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/fireball-1.0-20140121.002129-3.pom.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/fireball_i/target/mvn-repo/com/caved_in/fireball/maven-metadata.xml.sha1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fireball/wizardrycubed-spell-fireball.iml" afterPath="$PROJECT_DIR$/fireball_i/fireball_i.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="WizardryCubed.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +108,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="51" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="2144">
+            <state line="86" column="42" selection-start="2831" selection-end="2831" vertical-scroll-proportion="0.0" vertical-offset="1248" max-vertical-offset="2144">
               <folding />
             </state>
           </provider>
@@ -106,10 +147,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WizardryCommands.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="23" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+              <folding>
+                <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FireballSpell.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="25" selection-start="689" selection-end="689" vertical-scroll-proportion="-0.4155496" vertical-offset="507" max-vertical-offset="880">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WizardryCommands.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/commands/WizardryCommands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="13" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.71005917" vertical-offset="336" max-vertical-offset="1104">
+            <state line="29" column="52" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1104">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,32 +200,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="24" selection-start="639" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FireballSpell.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="25" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="896">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -175,9 +221,7 @@
         <option value="$PROJECT_DIR$/api/src/main/java/SpellPlugin.java" />
         <option value="$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/plugin/SpellPlugin.java" />
         <option value="$PROJECT_DIR$/api/pom.xml" />
-        <option value="$PROJECT_DIR$/fireball/pom.xml" />
         <option value="$PROJECT_DIR$/plugin/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/api/src/main/java/com/caved_in/wizardrycubed/plugin/SpellPlugin.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/com/caved_in/wizardrycubed/plugin/Spell.java" />
         <option value="$PROJECT_DIR$/api/src/main/java/com/caved_in/wizardrycubed/spells/Spell.java" />
@@ -186,6 +230,8 @@
         <option value="$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java" />
         <option value="$PROJECT_DIR$/plugin/src/main/resources/plugin.yml" />
         <option value="$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/commands/WizardryCommands.java" />
+        <option value="$PROJECT_DIR$/fireball/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -248,7 +294,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="wizardrycubed" />
+          <option name="myItemId" value="fireball_i" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -258,7 +304,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="wizardrycubed" />
+          <option name="myItemId" value="fireball_i" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -274,7 +320,7 @@
     <option name="width" value="1368" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -485,7 +531,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fireball" />
+              <option name="myItemId" value="fireball_i" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -499,7 +545,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fireball" />
+              <option name="myItemId" value="fireball_i" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -517,91 +563,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fireball" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fireball" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wizardrycubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WizardryCubed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
+              <option name="myItemId" value="fireball_i" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -623,7 +585,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
+              <option name="myItemId" value="fireball_i" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -882,8 +844,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20757575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290938" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290938" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -945,14 +907,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
+    <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="42" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="640">
-          <folding />
+          <folding>
+            <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java">
+    <entry file="file://$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="43" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="736">
           <folding>
@@ -995,14 +959,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
+    <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="42" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="640">
-          <folding />
+          <folding>
+            <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java">
+    <entry file="file://$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="43" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="736">
           <folding>
@@ -1029,14 +995,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
+    <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="21" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="528">
-          <folding />
+          <folding>
+            <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java">
+    <entry file="file://$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="40" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="736">
           <folding>
@@ -1052,23 +1020,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
+    <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
-          <folding />
+          <folding>
+            <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../jspf-d7e879684cc6/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.385399" vertical-offset="816" max-vertical-offset="2464" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="24" selection-start="639" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin/pom.xml">
@@ -1082,41 +1045,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="51" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="2144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/caved_in/wizardrycubed/spells/Spell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="178" max-vertical-offset="736">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/spells/SpellManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="31" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="624">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/WizardryCubed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="27" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="992">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fireball/src/main/java/com/caved_in/wizardrycubed/FireballSpell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="896">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1132,7 +1063,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/commands/WizardryCommands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="13" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.71005917" vertical-offset="336" max-vertical-offset="1104">
+        <state line="29" column="52" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1104">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin/src/main/java/com/caved_in/wizardrycubed/spells/SpellManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="31" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="624">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/caved_in/wizardrycubed/spells/Spell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="178" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fireball_i/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+          <folding>
+            <marker date="1390264802641" expanded="true" signature="89:1122" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="42" selection-start="2831" selection-end="2831" vertical-scroll-proportion="0.0" vertical-offset="1248" max-vertical-offset="2144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fireball_i/src/main/java/com/caved_in/wizardrycubed/spells/FireballSpell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="689" selection-end="689" vertical-scroll-proportion="-0.4155496" vertical-offset="507" max-vertical-offset="880">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

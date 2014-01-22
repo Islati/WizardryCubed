@@ -1,9 +1,8 @@
-package com.caved_in.wizardrycubed;
+package com.caved_in.wizardrycubed.spells;
 
 import com.caved_in.commons.Commons;
 import com.caved_in.commons.player.PlayerHandler;
 import com.caved_in.commons.sound.SoundHandler;
-import com.caved_in.wizardrycubed.spells.Spell;
 import net.xeoh.plugins.base.annotations.PluginImplementation;
 import net.xeoh.plugins.base.annotations.events.Init;
 import net.xeoh.plugins.base.annotations.meta.Author;

@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WizardryCubed.iml" filepath="$PROJECT_DIR$/WizardryCubed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fireball_i/fireball_i.iml" filepath="$PROJECT_DIR$/fireball_i/fireball_i.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/api/wizardrycubed-api.iml" filepath="$PROJECT_DIR$/api/wizardrycubed-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fireball/wizardrycubed-spell-fireball.iml" filepath="$PROJECT_DIR$/fireball/wizardrycubed-spell-fireball.iml" />
     </modules>
   </component>
 </project>

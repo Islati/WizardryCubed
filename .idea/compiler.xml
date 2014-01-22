@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="fireball_i" />
         <module name="plugin" />
         <module name="wizardrycubed-api" />
         <module name="wizardrycubed-spell-fireball" />
@@ -30,6 +31,7 @@
     <bytecodeTargetLevel>
       <module name="api" target="1.7" />
       <module name="fireball" target="1.7" />
+      <module name="fireball_i" target="1.7" />
       <module name="plugin" target="1.7" />
       <module name="WizardryCubed" target="1.7" />
       <module name="wizardrycubed-api" target="1.7" />
