@@ -7,6 +7,7 @@ import com.caved_in.wizardrycubed.spells.SpellManager;
 import net.xeoh.plugins.base.Plugin;
 import net.xeoh.plugins.base.impl.PluginManagerFactory;
 import net.xeoh.plugins.base.util.PluginManagerUtil;
+import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
@@ -19,6 +20,8 @@ import java.io.File;
 public class WizardryCubed extends JavaPlugin {
 	private PluginManagerUtil pluginManager;
 	private static String spellPluginFolder = "spells/";
+	private static WizardryCubed plugin;
+
 	@Override
 	public void onEnable() {
 		//Register Commands
@@ -51,6 +54,13 @@ public class WizardryCubed extends JavaPlugin {
 	@Override
 	public void onDisable() {
 
+	}
+
+	public static WizardryCubed getPlugin() {
+		if (plugin == null) {
+			plugin = (WizardryCubed)Bukkit.getPluginManager().getPlugin("WizardryCubed");
+		}
+		return plugin;
 	}
 
 }

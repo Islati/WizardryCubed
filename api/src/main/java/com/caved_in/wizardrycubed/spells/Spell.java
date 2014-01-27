@@ -38,4 +38,8 @@ public interface Spell extends Plugin {
 	 * @param player
 	 */
 	public void castSpell(Player player);
+
+	public int castRange();
+
+	public double damage();
 }

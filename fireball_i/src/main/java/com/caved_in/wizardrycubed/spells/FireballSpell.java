@@ -42,6 +42,16 @@ public class FireballSpell implements Spell {
 		PlayerHandler.sendMessage(player, "&7Pew pew!");
 	}
 
+	@Override
+	public int castRange() {
+		return 15;
+	}
+
+	@Override
+	public double damage() {
+		return 3;
+	}
+
 	@Init
 	public void init() {
 		Commons.messageConsole("Loaded fireball spell");
